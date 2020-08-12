@@ -29,7 +29,7 @@ ex) 내용예시
 2. _includes 폴더에 저장해서 관리
 3. post 안에 이런식으로 추가해준다.
 
-~~~
-{% include python-table-of-contents.html %}
+~~~html
+
 ~~~
 

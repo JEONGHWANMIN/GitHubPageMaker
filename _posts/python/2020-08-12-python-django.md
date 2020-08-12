@@ -36,3 +36,4 @@ python manage.py startapp firstapp
 
 
 #### 장고장고
+재미있는 장고이다.
