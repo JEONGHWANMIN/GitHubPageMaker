@@ -25,8 +25,6 @@ ex ) django-admin startproject firstproject
 ex) cd firstproject -> python manage.py runserver
 ls 로 manage.py 가 있는 것을 확인하고, runserver !
 
-<img src="assets/built/images/python-logo.png"/>
-
 ### 장고의 흐름 ! 
 1 ) 요청을 받은 url을 urls.py가 찾는다. <br>
 2 ) urls.py에 연결된 views.py의 함수를 실행한다. <br>
@@ -36,3 +34,4 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !
 #### (4) 장고 앱 생성하는 법
 python manage.py startapp firstapp
 
+<img src="assets/built/images/python-logo.png"/>s
