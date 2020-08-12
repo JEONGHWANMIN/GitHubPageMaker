@@ -4,7 +4,7 @@ current: post
 cover: assets/built/images/python-logo.png
 navigation: True
 title: python - Django-기초(1)
-date: 2020-08-13 02:20:00
+date: 2020-08-13 00:00:00
 tags: [python]
 class: post-template
 subclass: 'post'
