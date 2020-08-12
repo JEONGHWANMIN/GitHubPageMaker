@@ -10,3 +10,7 @@ certification :
   name: certification
   description: False
   cover: assets/built/images/background-frontend.jpg
+AI :
+  name: AI
+  description: False
+  cover: assets/built/images/background-frontend.jpg
