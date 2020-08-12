@@ -48,4 +48,3 @@ author: moon9342
 
 수정
 
-참고문헌 : https://moon9342.github.io/jekyll-start
