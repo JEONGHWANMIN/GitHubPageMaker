@@ -12,3 +12,5 @@ author: JEONGHWANMIN
 ---
 
 jekyll 블로그 연습 !
+#### 메뉴 추가 
+1._data tag수정 2._includes -> navigation.html 수정
