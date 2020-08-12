@@ -1,0 +1,11 @@
+JEONGHWANMIN :
+  username: JEONGHWANMIN   # user name : martin
+  name: JEONGHWANMIN     # user full name : Martin Luther King
+  url_full:             # Homepage url
+  url:
+  bio: 학생입니다.
+                        # 회사정보
+  picture: assets/built/images/author-logo.jpg   # author image
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False
