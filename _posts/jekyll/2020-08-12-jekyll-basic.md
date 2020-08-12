@@ -28,23 +28,8 @@ ex) 내용예시
 ~~~
 2. _includes 폴더에 저장해서 관리
 3. post 안에 이런식으로 추가해준다.
- ~~~
----
-layout: post
-current: post
-cover:  assets/built/images/python-logo.png
-navigation: True
-title: Python 강좌(1) - Python 기본 
-date: 2018-09-27 16:40:00
-tags: [python]
-class: post-template
-subclass: 'post tag-python'
-author: moon9342
----
-
-{% include python-table-of-contents.html %}
 
 ~~~
+{% include python-table-of-contents.html %}
+~~~
 
-수정
-1
