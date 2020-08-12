@@ -8,5 +8,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-이것은 소리없는 아우성!!
-빌드 및 배포 자동화 실행했어요 !!
+2020-08-13 AM 2:40 Blog creation complete
