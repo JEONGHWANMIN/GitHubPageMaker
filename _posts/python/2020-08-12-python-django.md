@@ -34,4 +34,4 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !
 #### (4) 장고 앱 생성하는 법
 python manage.py startapp firstapp
 
-수정1
+수정112
