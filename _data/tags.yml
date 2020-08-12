@@ -6,8 +6,8 @@ python :
   name: python # 위에거랑 똑같이 주면 된다.
   description: False # 설명인데 딱히 필요없다. 
   cover: assets/built/images/background-frontend.jpg # 태그로 글들을 모아볼때 배경화면
-AI :
-  name: AI
+ai :
+  name: ai
   description: False
   cover: assets/built/images/background-frontend.jpg
 certification :
