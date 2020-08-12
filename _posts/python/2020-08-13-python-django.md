@@ -4,7 +4,7 @@ current: post
 cover: assets/built/images/python-logo.png
 navigation: True
 title: python - Django-기초(1)
-date: 2020-08-13 00:00:00
+date: 2020-08-12 10:00:00
 tags: [python]
 class: post-template
 subclass: 'post'
@@ -36,4 +36,3 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !
 #### (4) 장고 앱 생성하는 법
 python manage.py startapp firstapp
 
-1212
