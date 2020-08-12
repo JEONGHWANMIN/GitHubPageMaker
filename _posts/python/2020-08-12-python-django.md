@@ -17,7 +17,7 @@ author: JEONGHWANMIN
 #### (1) Django install
 ex ) pipenv install django (가상환경에 장고 설치)
 
-#### (2) 장고 프로젝트 설치
+#### (2) 장고 프로젝트 만들기
 ex ) django-admin startproject firstproject
 
 장고는 하나의 프로젝트(서비스) 안에 여러개의 앱(큰 기능)으로 구성된다.
@@ -34,4 +34,3 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !
 #### (4) 장고 앱 생성하는 법
 python manage.py startapp firstapp
 
-<img src="assets/built/images/python-logo.png"/>
