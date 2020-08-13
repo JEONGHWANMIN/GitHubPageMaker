@@ -13,7 +13,12 @@ author: JEONGHWANMIN
 ### Django
 장고란 서버 역할을 할 수 있는 웹 프레임워크 이다. <br>
 
-장고의 장점 <li>많은 것들이 준비되어 있어서 빠르다.<li>보안이 안전하다.<li>스케일이 다양하다<li>다양한 것들을 만들 수 있다.<br>
+장고의 장점 
+<li>많은 것들이 준비되어 있어서 빠르다.</li>
+<li>보안이 안전하다.</li>
+<li>스케일이 다양하다.</li>
+<li>다양한 것들을 만들 수 있다.</li><br>
+
 #### (1) Django install
 ex ) pipenv install django (가상환경에 장고 설치)
 
